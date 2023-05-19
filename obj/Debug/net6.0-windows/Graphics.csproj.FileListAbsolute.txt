@@ -1,0 +1,90 @@
+F:\FCAI\level 3\Graphics\bin\Debug\net6.0-windows\Graphics.exe
+F:\FCAI\level 3\Graphics\bin\Debug\net6.0-windows\Graphics.deps.json
+F:\FCAI\level 3\Graphics\bin\Debug\net6.0-windows\Graphics.runtimeconfig.json
+F:\FCAI\level 3\Graphics\bin\Debug\net6.0-windows\Graphics.dll
+F:\FCAI\level 3\Graphics\bin\Debug\net6.0-windows\Graphics.pdb
+F:\FCAI\level 3\Graphics\obj\Debug\net6.0-windows\Graphics.csproj.AssemblyReference.cache
+F:\FCAI\level 3\Graphics\obj\Debug\net6.0-windows\Graphics.form.resources
+F:\FCAI\level 3\Graphics\obj\Debug\net6.0-windows\Graphics.Properties.Resources.resources
+F:\FCAI\level 3\Graphics\obj\Debug\net6.0-windows\Graphics.csproj.GenerateResource.cache
+F:\FCAI\level 3\Graphics\obj\Debug\net6.0-windows\Graphics.GeneratedMSBuildEditorConfig.editorconfig
+F:\FCAI\level 3\Graphics\obj\Debug\net6.0-windows\Graphics.AssemblyInfoInputs.cache
+F:\FCAI\level 3\Graphics\obj\Debug\net6.0-windows\Graphics.AssemblyInfo.cs
+F:\FCAI\level 3\Graphics\obj\Debug\net6.0-windows\Graphics.csproj.CoreCompileInputs.cache
+F:\FCAI\level 3\Graphics\obj\Debug\net6.0-windows\Graphics.dll
+F:\FCAI\level 3\Graphics\obj\Debug\net6.0-windows\refint\Graphics.dll
+F:\FCAI\level 3\Graphics\obj\Debug\net6.0-windows\Graphics.pdb
+F:\FCAI\level 3\Graphics\obj\Debug\net6.0-windows\Graphics.genruntimeconfig.cache
+F:\FCAI\level 3\Graphics\obj\Debug\net6.0-windows\ref\Graphics.dll
+F:\3 sem 2\graphics\newpackage\Graphics\bin\Debug\net6.0-windows\Graphics.exe
+F:\3 sem 2\graphics\newpackage\Graphics\bin\Debug\net6.0-windows\Graphics.deps.json
+F:\3 sem 2\graphics\newpackage\Graphics\bin\Debug\net6.0-windows\Graphics.runtimeconfig.json
+F:\3 sem 2\graphics\newpackage\Graphics\bin\Debug\net6.0-windows\Graphics.dll
+F:\3 sem 2\graphics\newpackage\Graphics\bin\Debug\net6.0-windows\Graphics.pdb
+F:\3 sem 2\graphics\newpackage\Graphics\obj\Debug\net6.0-windows\Graphics.csproj.AssemblyReference.cache
+F:\3 sem 2\graphics\newpackage\Graphics\obj\Debug\net6.0-windows\Graphics.form.resources
+F:\3 sem 2\graphics\newpackage\Graphics\obj\Debug\net6.0-windows\Graphics.Properties.Resources.resources
+F:\3 sem 2\graphics\newpackage\Graphics\obj\Debug\net6.0-windows\Graphics.csproj.GenerateResource.cache
+F:\3 sem 2\graphics\newpackage\Graphics\obj\Debug\net6.0-windows\Graphics.GeneratedMSBuildEditorConfig.editorconfig
+F:\3 sem 2\graphics\newpackage\Graphics\obj\Debug\net6.0-windows\Graphics.AssemblyInfoInputs.cache
+F:\3 sem 2\graphics\newpackage\Graphics\obj\Debug\net6.0-windows\Graphics.AssemblyInfo.cs
+F:\3 sem 2\graphics\newpackage\Graphics\obj\Debug\net6.0-windows\Graphics.csproj.CoreCompileInputs.cache
+F:\3 sem 2\graphics\newpackage\Graphics\obj\Debug\net6.0-windows\Graphics.dll
+F:\3 sem 2\graphics\newpackage\Graphics\obj\Debug\net6.0-windows\refint\Graphics.dll
+F:\3 sem 2\graphics\newpackage\Graphics\obj\Debug\net6.0-windows\Graphics.pdb
+F:\3 sem 2\graphics\newpackage\Graphics\obj\Debug\net6.0-windows\Graphics.genruntimeconfig.cache
+F:\3 sem 2\graphics\newpackage\Graphics\obj\Debug\net6.0-windows\ref\Graphics.dll
+F:\FCAI\level 3\second term material\Computer Graphics - 1\Graphics\Graphics\bin\Debug\net6.0-windows\Graphics.exe
+F:\FCAI\level 3\second term material\Computer Graphics - 1\Graphics\Graphics\bin\Debug\net6.0-windows\Graphics.deps.json
+F:\FCAI\level 3\second term material\Computer Graphics - 1\Graphics\Graphics\bin\Debug\net6.0-windows\Graphics.runtimeconfig.json
+F:\FCAI\level 3\second term material\Computer Graphics - 1\Graphics\Graphics\bin\Debug\net6.0-windows\Graphics.dll
+F:\FCAI\level 3\second term material\Computer Graphics - 1\Graphics\Graphics\bin\Debug\net6.0-windows\Graphics.pdb
+F:\FCAI\level 3\second term material\Computer Graphics - 1\Graphics\Graphics\obj\Debug\net6.0-windows\Graphics.csproj.AssemblyReference.cache
+F:\FCAI\level 3\second term material\Computer Graphics - 1\Graphics\Graphics\obj\Debug\net6.0-windows\Graphics.form.resources
+F:\FCAI\level 3\second term material\Computer Graphics - 1\Graphics\Graphics\obj\Debug\net6.0-windows\Graphics.Properties.Resources.resources
+F:\FCAI\level 3\second term material\Computer Graphics - 1\Graphics\Graphics\obj\Debug\net6.0-windows\Graphics.csproj.GenerateResource.cache
+F:\FCAI\level 3\second term material\Computer Graphics - 1\Graphics\Graphics\obj\Debug\net6.0-windows\Graphics.GeneratedMSBuildEditorConfig.editorconfig
+F:\FCAI\level 3\second term material\Computer Graphics - 1\Graphics\Graphics\obj\Debug\net6.0-windows\Graphics.AssemblyInfoInputs.cache
+F:\FCAI\level 3\second term material\Computer Graphics - 1\Graphics\Graphics\obj\Debug\net6.0-windows\Graphics.AssemblyInfo.cs
+F:\FCAI\level 3\second term material\Computer Graphics - 1\Graphics\Graphics\obj\Debug\net6.0-windows\Graphics.csproj.CoreCompileInputs.cache
+F:\FCAI\level 3\second term material\Computer Graphics - 1\Graphics\Graphics\obj\Debug\net6.0-windows\Graphics.dll
+F:\FCAI\level 3\second term material\Computer Graphics - 1\Graphics\Graphics\obj\Debug\net6.0-windows\refint\Graphics.dll
+F:\FCAI\level 3\second term material\Computer Graphics - 1\Graphics\Graphics\obj\Debug\net6.0-windows\Graphics.pdb
+F:\FCAI\level 3\second term material\Computer Graphics - 1\Graphics\Graphics\obj\Debug\net6.0-windows\Graphics.genruntimeconfig.cache
+F:\FCAI\level 3\second term material\Computer Graphics - 1\Graphics\Graphics\obj\Debug\net6.0-windows\ref\Graphics.dll
+C:\Users\SAMO\Downloads\Graphics Projects\Graphics\Graphics\obj\Debug\net6.0-windows\Graphics.csproj.AssemblyReference.cache
+C:\Users\SAMO\Downloads\Graphics Projects\Graphics\Graphics\obj\Debug\net6.0-windows\Graphics.csproj.GenerateResource.cache
+C:\Users\SAMO\Downloads\Graphics Projects\Graphics\Graphics\obj\Debug\net6.0-windows\Graphics.dll
+C:\Users\SAMO\Downloads\Graphics Projects\Graphics\Graphics\obj\Debug\net6.0-windows\refint\Graphics.dll
+C:\Users\SAMO\Downloads\Graphics Projects\Graphics\Graphics\obj\Debug\net6.0-windows\Graphics.pdb
+C:\Users\SAMO\Downloads\Graphics Projects\Graphics\Graphics\obj\Debug\net6.0-windows\Graphics.form.resources
+C:\Users\SAMO\Downloads\Graphics Projects\Graphics\Graphics\obj\Debug\net6.0-windows\Graphics.Properties.Resources.resources
+C:\Users\SAMO\Downloads\Graphics Projects\Graphics\Graphics\obj\Debug\net6.0-windows\Graphics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMO\Downloads\Graphics Projects\Graphics\Graphics\obj\Debug\net6.0-windows\Graphics.AssemblyInfoInputs.cache
+C:\Users\SAMO\Downloads\Graphics Projects\Graphics\Graphics\obj\Debug\net6.0-windows\Graphics.AssemblyInfo.cs
+C:\Users\SAMO\Downloads\Graphics Projects\Graphics\Graphics\obj\Debug\net6.0-windows\Graphics.csproj.CoreCompileInputs.cache
+C:\Users\SAMO\Downloads\Graphics Projects\Graphics\Graphics\bin\Debug\net6.0-windows\Graphics.exe
+C:\Users\SAMO\Downloads\Graphics Projects\Graphics\Graphics\bin\Debug\net6.0-windows\Graphics.deps.json
+C:\Users\SAMO\Downloads\Graphics Projects\Graphics\Graphics\bin\Debug\net6.0-windows\Graphics.runtimeconfig.json
+C:\Users\SAMO\Downloads\Graphics Projects\Graphics\Graphics\bin\Debug\net6.0-windows\Graphics.dll
+C:\Users\SAMO\Downloads\Graphics Projects\Graphics\Graphics\bin\Debug\net6.0-windows\Graphics.pdb
+C:\Users\SAMO\Downloads\Graphics Projects\Graphics\Graphics\obj\Debug\net6.0-windows\Graphics.genruntimeconfig.cache
+C:\Users\SAMO\Downloads\Graphics Projects\Graphics\Graphics\obj\Debug\net6.0-windows\ref\Graphics.dll
+D:\Cs Helwan Materials\Level 3\semester 2\Graphics\test\Graphics\bin\Debug\net6.0-windows\Graphics.exe
+D:\Cs Helwan Materials\Level 3\semester 2\Graphics\test\Graphics\bin\Debug\net6.0-windows\Graphics.deps.json
+D:\Cs Helwan Materials\Level 3\semester 2\Graphics\test\Graphics\bin\Debug\net6.0-windows\Graphics.runtimeconfig.json
+D:\Cs Helwan Materials\Level 3\semester 2\Graphics\test\Graphics\bin\Debug\net6.0-windows\Graphics.dll
+D:\Cs Helwan Materials\Level 3\semester 2\Graphics\test\Graphics\bin\Debug\net6.0-windows\Graphics.pdb
+D:\Cs Helwan Materials\Level 3\semester 2\Graphics\test\Graphics\obj\Debug\net6.0-windows\Graphics.csproj.AssemblyReference.cache
+D:\Cs Helwan Materials\Level 3\semester 2\Graphics\test\Graphics\obj\Debug\net6.0-windows\Graphics.form.resources
+D:\Cs Helwan Materials\Level 3\semester 2\Graphics\test\Graphics\obj\Debug\net6.0-windows\Graphics.Properties.Resources.resources
+D:\Cs Helwan Materials\Level 3\semester 2\Graphics\test\Graphics\obj\Debug\net6.0-windows\Graphics.csproj.GenerateResource.cache
+D:\Cs Helwan Materials\Level 3\semester 2\Graphics\test\Graphics\obj\Debug\net6.0-windows\Graphics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cs Helwan Materials\Level 3\semester 2\Graphics\test\Graphics\obj\Debug\net6.0-windows\Graphics.AssemblyInfoInputs.cache
+D:\Cs Helwan Materials\Level 3\semester 2\Graphics\test\Graphics\obj\Debug\net6.0-windows\Graphics.AssemblyInfo.cs
+D:\Cs Helwan Materials\Level 3\semester 2\Graphics\test\Graphics\obj\Debug\net6.0-windows\Graphics.csproj.CoreCompileInputs.cache
+D:\Cs Helwan Materials\Level 3\semester 2\Graphics\test\Graphics\obj\Debug\net6.0-windows\Graphics.dll
+D:\Cs Helwan Materials\Level 3\semester 2\Graphics\test\Graphics\obj\Debug\net6.0-windows\refint\Graphics.dll
+D:\Cs Helwan Materials\Level 3\semester 2\Graphics\test\Graphics\obj\Debug\net6.0-windows\Graphics.pdb
+D:\Cs Helwan Materials\Level 3\semester 2\Graphics\test\Graphics\obj\Debug\net6.0-windows\Graphics.genruntimeconfig.cache
+D:\Cs Helwan Materials\Level 3\semester 2\Graphics\test\Graphics\obj\Debug\net6.0-windows\ref\Graphics.dll
